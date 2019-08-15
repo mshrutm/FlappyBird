@@ -1,0 +1,15 @@
+# Flappy Bird Game
+
+This is my implementation on the game using Java Swing.
+
+<img src = "Game-Scr.png">
+
+## Instructions
+* Download the jar file in the release.
+
+* Execute the jar file with the following command:
+```bash
+java -jar FlappyBird-0.0.1-jar-with-dependencies.jar 
+```
+
+ENJOY!
