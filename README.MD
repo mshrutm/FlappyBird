@@ -1,7 +1,7 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/isthattyler/flappybird/badge)](https://www.codefactor.io/repository/github/isthattyler/flappybird)
+[![Language Count](https://img.shields.io/github/languages/top/isthattyler/FlappyBird)](https://img.shields.io/github/languages/top/isthattyler/FlappyBird)
 # Flappy Bird Game
-
 This is my implementation on the game using Java Swing.
-
 <img src = "Game-Scr.png">
 
 ## Instructions
